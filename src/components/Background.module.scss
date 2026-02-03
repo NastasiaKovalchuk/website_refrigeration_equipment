@@ -1,0 +1,13 @@
+.background {
+  min-height: 90rem;
+  transition: background-image 0.06 ease-in-out;
+  background: url('../assets/image/fridge-1.jpg') center/cover no-repeat;
+}
+
+.container {
+  max-width: 129.7rem;
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
+
+  border: 1px solid #000;
+}
